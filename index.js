@@ -19,4 +19,4 @@ return auxiliarAcumulado;
 //console.log(funciones.iva)
 //totalFactura=acumularValores(10);
 //console.log(totalFactura)
-console.log(funcionesx);
+console.log(funcionesx.saludar("Bart"));
